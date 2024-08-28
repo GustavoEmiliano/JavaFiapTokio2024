@@ -8,8 +8,8 @@ public class Exercicio06 {
 		
 		 Scanner scanner = new Scanner(System.in);
 		 
-		 System.out.println("Digite a sua idade:");
-		 System.out.println("Sua idade é: " + scanner.nextInt());
+		 System.out.println("Digite o seu nome:");
+		 System.out.println("Seu nome é: " + scanner.nextInt());
 		 
 		 scanner.close();
 	}
