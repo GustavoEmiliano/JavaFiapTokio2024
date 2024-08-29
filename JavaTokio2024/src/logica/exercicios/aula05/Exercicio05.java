@@ -9,7 +9,7 @@ public class Exercicio05 {
 		double A = s.nextInt();
 		double B = s.nextInt();
 		
-		double mediaFinal = ( A * 4) + (B * 6);
+		double mediaFinal = ( A * 0.4) + (B * 0.6);
 		System.out.println(mediaFinal);
 	}
 
